@@ -2,7 +2,7 @@
 - 👀 I’m interested in human expansion
 - 🌱 I’m currently learning Github and AWS
 - 💞️ I’m looking to collaborate on any Git or AWS projects!
-- 📫 How to reach me email me at simeon.st@hotmail.com  
+- 📫 How to reach me - email me at simeon.st@hotmail.com  
 - 😄 Pronouns: Himeon 
 - ⚡ Fun fact: I love snowboarding
 
